@@ -66,7 +66,6 @@ Technical Skills
 * Python
 * Pandas
 * QGIS
-* GDAL
 * CSV data workflows
 * Spatial data QA
 * Data cleaning
