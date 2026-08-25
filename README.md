@@ -1,18 +1,17 @@
 # Hi, I’m Peter
 
-Agritech data analytics projects focused on farm, soil, sensor, and spatial data.
+Data analyst building practical projects in data quality, relational databases, spatial analytics and decision-support tools.
 
-My current work centres on using SQL, Python, PostgreSQL, and geospatial tools to clean, structure, validate, and interpret agricultural datasets.
+My work uses SQL, Python, PostgreSQL and geospatial tools to clean, structure, validate and interpret complex datasets.
 
 ## Focus
 
-- Agritech data analytics
-- Farm sensor telemetry
-- Soil and field-level data
-- Spatial data workflows
-- Data quality and validation
-- PostgreSQL and SQL workflows
-- Python for data analysis
+* Data analysis and reporting
+* Data quality and validation
+* Relational databases and SQL workflows
+* Python and Pandas
+* Spatial analytics
+* Practical decision-support tools
 
 ## Current Projects
 
@@ -77,6 +76,4 @@ This project focuses on small-scale farm operations, structured records, and pra
 
 ## Direction
 
-I am focused on developing practical data skills for agritech and agricultural decision-support work.
-
-My aim is to work with real-world farm, soil, crop, sensor, and spatial datasets, helping to turn messy agricultural data into clearer, more reliable, and more useful insights.
+I am developing my skills for data analyst and junior analytics engineering roles involving data quality, reporting and reliable data systems. Agriculture, sustainability and spatial analytics remain particular areas of interest.
